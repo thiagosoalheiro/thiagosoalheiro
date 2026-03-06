@@ -1,5 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&width=435&separator=%3C&lines=print(%22Hello+World%22);%3Cnome+%3D+%22Thiago%22+print(nome);%3C%3A)" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&center=true&vCenter=true&width=436&separator=%3C&lines=print(%22Hello+World%22);%3Cnome+%3D+%22Thiago%22+print(nome);%3C%3A)" alt="Typing SVG" /></a>
 
 **`Graduando em Ciência da Computação | Desenvolvedor em Formação`**
 
