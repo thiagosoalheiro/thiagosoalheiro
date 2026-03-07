@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=4000&size=24&letterSpacing=1000&pause=1000&color=30A7DC&center=true&vCenter=true&width=320&separator=%3C&lines=print(%22Hello+World!%22);%3Cnome+%3D+%22Thiago%22+print(nome);%3C%3A))](https://git.io/typing-svg)
+# 👨🏻‍💻 Thiago Soalheiro
 
 **`Graduando em Ciência da Computação | Desenvolvedor em Formação`**
 
